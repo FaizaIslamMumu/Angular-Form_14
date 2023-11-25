@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    padding: auto;
+}
+/*Radio Button*/
+.form-check {
+    display: flex;
+    align-items: center; 
+}
+
+.form-check-input {
+    margin-left: 300px;
+}
+
+/*Image*/
+/* Custom CSS for adjusting layout */
+input[type="file"].form-control {
+    width: 40%; /* Set the width of the file input to 40% */
+    margin-right: 10px; /* Add some spacing between the file input and the button */
+}
+
+
+
+
+
+
+
+
+
+
